@@ -1,1 +1,4 @@
-Những thông tin quan trọng hay ghi chú chức năng từng hàm đều ở trong file.h và main.c.
+Đây là những kĩ thuật trong lập trình Embedded.
+
+- Kĩ thuật đó là gì? Định nghĩa + Công dụng nằm trong main.c
+- Tác dụng + Nhiệm vụ của từng hàm nằm trong file.h
