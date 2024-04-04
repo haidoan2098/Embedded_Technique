@@ -14,9 +14,9 @@ Bài tập
 1. Thiết kế 1 chương trình 0,5s đẩy dữ liệu vào Circular Queue. Sau đó đọc dữ liệu từ Queue ra và đẩy vào mảng gồm 20 phần tử.
 Khi đầy 20 phần tử thì xuất ra màn hình. Tiếp tục với các dữ liệu khác.     
 
-2. Thiết kế Circular Queue với 1 phần tử queue là 1 struct như sau: 
-typedef struct{
-    int length;
-    uint8_t arr[20];
-} node_t;   
+2. Thiết kế Circular Queue với 1 phần tử queue là 1 struct như sau:         
+typedef struct{            
+    int length;            
+    uint8_t arr[20];            
+} node_t;               
 Mỗi lần truyền vào queue vào 1 node thì đọc ra node đó để xử lí.
