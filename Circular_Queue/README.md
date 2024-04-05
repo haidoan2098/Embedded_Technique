@@ -3,7 +3,7 @@
 
 Queue (Hàng đợi): Là CTDL thực hiện theo cơ chế FIFO (First In Firt Out - Vào trước ra trước).      
 - Đẩy dữ liệu vào cuối hàng và lấy ra từ đầu hàng.    
-- Hàng đợi được sử dụng khi ta muốn 1 vùng nhớ nhỏ, có thể xử lí dữ liệu 1 cách liên tục mà ko bị mất dữ liệu hay ghi đè (Mảng ko làm được).
+- Hàng đợi được sử dụng khi ta muốn 1 vùng nhớ nhỏ, có thể xử lí dữ liệu 1 cách liên tục mà ko bị mất dữ liệu hay ghi đè (Mảng ko làm được).        
 Hạn chế của Queue: Khi ta lấy dữ liệu thì ta ko thể tái sử dụng vị trí đó khi chưa lấy dữ liệu ở trong hàng ra hết.
 -> Khắc phục: Circular Queue
 
